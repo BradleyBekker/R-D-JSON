@@ -1,0 +1,27 @@
+{"yu-gi-oh decks":{
+  "nordic":{
+    "ace monster": "Odin Father Of The Aesir",
+    "extra deck summoning type": "Syncro",
+   "number of members":{
+      "monsters":   20,
+      "spells":   11,
+      "traps":   9 }},
+  "phantom knights":{
+    "ace monster": "the phantom knights of the rusty bardiche & Dark Rebelion XYZ Dragon",
+    "extra deck summoning type": "XYZ",
+   "number of members":{
+      "monsters":   10,
+      "spells":   10,
+      "traps": 20
+}},
+"destiny hero":{
+  "ace monster": "Destiny End Dragoon",
+  "extra deck summoning type": "Fusion",
+ "number of members":{
+    "monsters":   20,
+    "spells":   15,
+    "traps": 5
+}}
+
+
+}}
