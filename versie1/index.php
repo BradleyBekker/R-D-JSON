@@ -23,7 +23,7 @@
         echo"</pre></code></hr>";
       }
       else echo $file .'not exists ';
-/*
+
       echo($objson['yu-gi-oh decks']['nordic']['ace monster']);
       echo("<br>");
       echo($objson['yu-gi-oh decks']['nordic']['extra deck summoning type']);
@@ -40,15 +40,9 @@
 
       echo($objson['yu-gi-oh decks']['destiny hero']['ace monster']);
       echo("<br>");
-      echo($objson['yu-gi-oh decks']['destiny hero']['extra deck summoning type']);*/
-$objson['yu-gi-oh decks']['destiny hero']['ace monster']=" MaxV";
-$objson['yu-gi-oh decks']['destiny hero']['extra deck summoning type']="KevinC";
-echo "<hr><code><pre>";
-print_r($objson);
-echo"</pre></code></hr>";
+      echo($objson['yu-gi-oh decks']['destiny hero']['extra deck summoning type']);
 
- $fileOutput="test.json";
-writeJson($objson, $fileOutput);
+
     ?>
   </body>
 </html>
